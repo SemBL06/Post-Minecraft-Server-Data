@@ -1,0 +1,13 @@
+{
+  "motd": "A Minecraft Server",
+  "maxPlayers": 2,
+  "worlds": ["world"],
+  "onlinePlayers": ["SemBL"],
+  "port": 25565,
+  "ip": "0.0.0.0",
+  "name": "Paper",
+  "amountOnline": 0,
+  "simulationDistance": 2,
+  "version": "1.21.11-117-79c77f5 (MC: 1.21.11)",
+  "viewDistance": 4
+}
